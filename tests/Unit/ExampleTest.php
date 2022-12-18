@@ -16,5 +16,6 @@ class ExampleTest extends TestCase
         $this->assertTrue(true);
         $this->assertEquals(true,1);
         $this->assertEquals(10,10);
+        $this->assertEquals(50,10);
     }
 }
