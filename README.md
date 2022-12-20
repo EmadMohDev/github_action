@@ -11,7 +11,7 @@
 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/EmadMohDev/github_action/main/images/github_demo.PNG" alt="github actions demo" width="300px">
+    <img src="https://raw.githubusercontent.com/EmadMohDev/github_action/main/images/github_demo.PNG" alt="github actions demo" width="900">
 </p>
 
 
